@@ -10,6 +10,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundImage": "./assets/images/android-icon-background.png"
+      },
+      "package": "com.inthira2004.smartbin"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d76204d3-b2fa-4514-9e88-662f8b76cb80"
       }
     }
   }
