@@ -1,0 +1,49 @@
+# Node
+node_modules
+
+# Expo
+.expo
+.expo-shared
+web-build
+
+# Native folders (EAS build ไม่ต้องใช้)
+android
+ios
+
+# Build / cache
+build
+dist
+.cache
+.tmp
+temp
+
+# Logs
+*.log
+
+# Assets / datasets (ตัวการหลัก)
+assets/raw
+datasets
+dataset
+data
+images
+image
+photos
+videos
+
+# ML / model files
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# System
+.DS_Store
+Thumbs.db
